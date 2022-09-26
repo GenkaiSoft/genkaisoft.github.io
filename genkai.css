@@ -1,0 +1,24 @@
+body {
+    background-color: #36393F;
+    color: #FFFFFF;
+}
+
+div#body {
+    padding: 25px;
+    max-width: 60%;
+    margin: auto auto;
+}
+
+div.container-fluid {
+    padding-left: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+li.nav-item {
+    padding-right: 25px;
+}
+
+img {
+    padding: 10px;
+}
