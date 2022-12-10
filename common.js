@@ -1,6 +1,6 @@
 var beforestr = `<nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-3 p-0">
             <div class="container-fluid">
-                <img class="navbar-brand" src="https://genkaisoft.github.io/japanese.png" width="64px">
+                <img class="navbar-brand" src="https://genkaisoft.github.io/logo/japanese.png" width="64px">
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
                     aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -25,7 +25,7 @@ var beforestr = `<nav class="navbar navbar-expand-sm navbar-dark bg-dark mb-3 p-
         </nav>`;
 var afterstr = `<footer>
     <strong>
-        <a href=https://github.com/brain-hackers/README/blob/main/assets.md>限界やちゃんは Brain Hackers により CC BY-SA 4.0 でライセンスされています。</a>
+        <a href=https://github.com/brain-hackers/README/blob/main/assets.md>限界やちゃんは Brain Hackers により CC BY-SA 4.0 でライセンスされています。</a><br>
         Copylighit (c) 2022 限界ソフト. All Rights Reserved.
     </strong>
     <div class="banner" style="text-align: center;">
