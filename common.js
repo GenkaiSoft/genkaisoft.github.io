@@ -30,7 +30,7 @@ var afterstr = `<footer>
         </a>
         。<br>
         しかしながら、ひろをーは誰からもライセンスされていません。<br>
-        Copyrighit (c) 2022 限界ソフト. All Rights Reserved.
+        Copyrighit (c) 2023 限界ソフト. All Rights Reserved.
     </strong>
     <div class="banner" style="text-align: center;">
         <a href="https://sites.google.com/site/happybusy/">
